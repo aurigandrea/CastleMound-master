@@ -1,0 +1,38 @@
+.carousel-inner {
+  height: 420px;
+  width: 100%;
+  overflow: hidden;
+  position: : center;
+}
+
+.item {
+  height: 420px;
+  width: 100%;
+  overflow: hidden;
+  position: : center;
+}
+
+.container {
+background-color:  lightgrey;
+}
+
+#contact {	
+background-color: black;
+color: lightgrey;
+}
+
+#gethere {	
+background-color:  rgb(153, 153, 153);
+}
+
+#myCarousel {	
+background-color: black;
+}
+
+p
+{
+font-size: 16px;
+}
+li {
+font-size: 16px;	
+}
